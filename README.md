@@ -26,7 +26,8 @@ Ferramas está comprometida con la expansión y mejora continua para ofrecer un 
 - MySQL
 
 ## Arquitectura Utilizada
-Nuestro proyecto se basa en la arquitectura MVC (Modelo-Vista-Controlador), con Python y JavaScript para la lógica de negocio y sus controladores. Los datos se gestionan a través de phpMyAdmin para administrar las bases de datos MySQL.
+En el proyecto se utilizo Python y JavaScript para la lógica de negocio y sus controladores, una arquitectura Modelo-Vista-Controlador. 
+Los datos se gestionan a través de phpMyAdmin para administrar las bases de datos MySQL.
 
 ## Pasos de Implementación
 1. **Abrir Visual Studio Code**
