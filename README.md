@@ -23,8 +23,8 @@ Ferramas está comprometida con la expansión y mejora continua para ofrecer un 
 
 ## Tecnologías:
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Phpmyadmin_logo.png" alt="phpMyAdmin" width="80" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/62/MySQL.svg" alt="MySQL" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png?20080127184102" alt="MySQL" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/800px-PhpMyAdmin_logo.svg.png" alt="phpMyAdmin" width="80" height="80">
 </p>
 
 ## Base de Datos:
