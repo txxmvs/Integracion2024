@@ -29,3 +29,8 @@ Ferramas está comprometida con la expansión y mejora continua para ofrecer un 
 Nuestro proyecto se basa en la arquitectura MVC (Modelo-Vista-Controlador), con Python y JavaScript para la lógica de negocio y sus controladores. Los datos se gestionan a través de phpMyAdmin para administrar las bases de datos MySQL.
 
 ## Pasos de Implementación
+1. **Abrir Visual Studio Code**
+   Navega a la raíz de la aplicación y abre Visual Studio Code desde allí.
+
+2. **Instalar composer**
+   Descarga el instalador de Composer desde getcomposer.org/download.
