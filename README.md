@@ -23,12 +23,14 @@ Ferramas está comprometida con la expansión y mejora continua para ofrecer un 
 
 ## Tecnologías:
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png?20080127184102" alt="MySQL" width="80" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/800px-PhpMyAdmin_logo.svg.png" alt="phpMyAdmin" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png?20080127184102" alt="MySQL" width="100" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/800px-PhpMyAdmin_logo.svg.png" alt="phpMyAdmin" width="100" height="80">
 </p>
 
 ## Base de Datos:
-- MySQL
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png?20080127184102" alt="MySQL" width="100" height="80">
+</p>
 
 ## Arquitectura Utilizada
 En el proyecto se utilizo Python y JavaScript para la lógica de negocio y sus controladores, una arquitectura Modelo-Vista-Controlador. 
