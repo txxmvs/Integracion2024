@@ -11,12 +11,15 @@ Ferramas está comprometida con la expansión y mejora continua para ofrecer un 
 
 
 ## Lenguajes:
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/6/68/SQL_logo.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/SQL_logo.png" alt="SQL" width="100" height="100">
+</p>
+
 
 ## Tecnologías:
 - phpMyAdmin
