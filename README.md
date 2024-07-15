@@ -22,8 +22,8 @@ Ferramas está comprometida con la expansión y mejora continua para ofrecer un 
 
 
 ## Tecnologías:
-- phpMyAdmin
-- MySQL
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Phpmyadmin_logo.png" alt="phpMyAdmin" width="80" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/en/6/62/MySQL.svg" alt="MySQL" width="80" height="80">
 
 ## Base de Datos:
 - MySQL
