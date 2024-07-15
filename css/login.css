@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-size: 18px; 
+}
+
+.login-container {
+    text-align: center;
+    font-size: 20px; 
+}
+
+.login-form {
+    background-color: #fff;
+    padding: 30px; 
+    border-radius: 8px; 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+}
+
+.input-group {
+    margin-bottom: 20px; 
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 10px; 
+    font-size: 18px; 
+}
+
+.input-group input {
+    width: 100%;
+    padding: 12px; 
+    border: 2px solid #ccc; 
+    border-radius: 5px; 
+    font-size: 18px; 
+}
+
+button {
+    background-color: #094293;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 24px; 
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 18px; 
+}
+
+button:hover {
+    background-color: #063971;
+}
