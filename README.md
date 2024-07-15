@@ -17,7 +17,7 @@ Ferramas está comprometida con la expansión y mejora continua para ofrecer un 
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100" height="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="100" height="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/SQL_logo.png" alt="SQL" width="100" height="100">
+  <img src="https://www.bigbaydata.com/wp-content/uploads/2022/11/sql_ejercicios.png" alt="SQL" width="100" height="100">
 </p>
 
 
